@@ -3,3 +3,4 @@ App.BooksRoute = Ember.Route.extend({
 		return App.Book.find();
 	}
 });
+
